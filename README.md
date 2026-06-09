@@ -1,4 +1,4 @@
-# codtech-task01
+# Iris Flower classification
 # Name- Niraj kumar
 # Intern- CITS3809
 # Domain Name- Artificial Intelligence
